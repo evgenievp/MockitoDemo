@@ -16,5 +16,4 @@ Features
 - Mockito 5
 - Maven
 
- 📁 Structure
 
